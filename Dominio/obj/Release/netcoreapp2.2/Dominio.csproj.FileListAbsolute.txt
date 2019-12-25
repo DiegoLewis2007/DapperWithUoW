@@ -1,0 +1,9 @@
+C:\Users\Diego Almeida\Desktop\HybridOrm-master\Dominio\bin\Release\netcoreapp2.2\Dominio.deps.json
+C:\Users\Diego Almeida\Desktop\HybridOrm-master\Dominio\bin\Release\netcoreapp2.2\Dominio.dll
+C:\Users\Diego Almeida\Desktop\HybridOrm-master\Dominio\bin\Release\netcoreapp2.2\Dominio.pdb
+C:\Users\Diego Almeida\Desktop\HybridOrm-master\Dominio\obj\Release\netcoreapp2.2\Dominio.csprojAssemblyReference.cache
+C:\Users\Diego Almeida\Desktop\HybridOrm-master\Dominio\obj\Release\netcoreapp2.2\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Diego Almeida\Desktop\HybridOrm-master\Dominio\obj\Release\netcoreapp2.2\Dominio.AssemblyInfoInputs.cache
+C:\Users\Diego Almeida\Desktop\HybridOrm-master\Dominio\obj\Release\netcoreapp2.2\Dominio.AssemblyInfo.cs
+C:\Users\Diego Almeida\Desktop\HybridOrm-master\Dominio\obj\Release\netcoreapp2.2\Dominio.dll
+C:\Users\Diego Almeida\Desktop\HybridOrm-master\Dominio\obj\Release\netcoreapp2.2\Dominio.pdb
